@@ -1,5 +1,6 @@
-.bitbag-page-item a, .bitbag-page-item a:hover {
+.bitbag-page a, .bitbag-page a:hover {
     color: rgba(0, 0, 0, .87);
+    width: 100%;
 }
 
 .bitbag-image-block img {
