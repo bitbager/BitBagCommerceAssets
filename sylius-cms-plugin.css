@@ -28,16 +28,22 @@
     color: #ffffff;
 }
 
-.bitbag-page-item, .bitbag-frequently-asked-question-item {
+.bitbag-page, .bitbag-frequently-asked-question {
     padding-top: 1rem;
     padding-bottom: 1rem;
     border-bottom: 1px solid rgba(34, 36, 38, .15);
 }
 
-.bitbag-page-item:hover {
+.bitbag-page:hover {
     background: rgba(0, 0, 0, .03);
 }
 
 .italic {
     font-style: italic;
+}
+
+.intro {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 900;
 }
